@@ -1,5 +1,5 @@
 # SchroniskoAppPHP
-https://foka.umg.edu.pl/~s47549/schronisko/schronisko/public/domowa
+https://foka.umg.edu.pl/~s47549/schronisko/schronisko/public/domowa</br>
 --PL--
 
 Projekt applikacji webowej wspomagającej korzystanie z bazy danych potencjalnego Schroniska dla zwierząt. Aplikacja zrobiona na potrzeby przedmiotu Projektowanie Stron Internetowych, stworzony w frameworku Laravel języka PHP oraz oparty o bazę danych utworzoną w PostgreSQL.
