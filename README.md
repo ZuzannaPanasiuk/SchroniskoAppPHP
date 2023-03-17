@@ -6,17 +6,17 @@ Projekt applikacji webowej wspomagającej korzystanie z bazy danych potencjalneg
 
 *Uwaga* - pliki przedstawione poniżej nie zawierają prawdziwych danych do logowania, niezbędnych do odtworzenia tego projektu, w związku z czym, aplikacja nie działa. Działanie aplikacji, można zaobserwować poprzez otworzenie linku znajdującego się na górze dokumentu.
 
-Baza zawiera tabele:
-     Zwierzeta - opisuje zwierzęta znajdujące się w schronisku;
-     Klienci - opisuje osoby, które decydują się na adopcję;
-     Wolontariusze - opisuje osoby, które udzielają się wolontaryjnie w schronisku;
-     Adopcje - opisuje adopcje - kto, jakie zwierze i kiedy adoptował;
-     Tymczas - opisuje pobyt zwierząt w domu tymczasowym - kto i jakie zwierze tymczasowo przygarnął;
+Baza zawiera tabele:</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Zwierzeta - opisuje zwierzęta znajdujące się w schronisku;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Klienci - opisuje osoby, które decydują się na adopcję;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Wolontariusze - opisuje osoby, które udzielają się wolontaryjnie w schronisku;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Adopcje - opisuje adopcje - kto, jakie zwierze i kiedy adoptował;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Tymczas - opisuje pobyt zwierząt w domu tymczasowym - kto i jakie zwierze tymczasowo przygarnął;</br>
 
 Aplikacja wspomaga wszystkie podstawowe operacje na bazie - edycję, dodawanie i usuwanie rekordów każdej z tabel. Ponadto, widok podzielony jest na widok klienta (góra) i widok admina (dół) - klient może przeglądać zwierzęta obecne w schronisku czy wysłać formularz zgłoszeniowy w celu zostania wolontariuszem. Admin natomiast, ma pełny dostęp do każdej z tabel w bazie.
 
-Dane do logowania, w celu podejżenia widoku admina:
-Login: admin@admin
+Dane do logowania, w celu podejżenia widoku admina:</br>
+Login: admin@admin</br>
 Hasło: adminadmin
 
 
@@ -26,12 +26,12 @@ Web application project supporting the administrative use of a database of an an
 
 *Warning* - the files of in this repo don't contain the correct login nor password, that are nessesary for this app to work, therefore it doesn't work. You can observe the app in working by opening the link at the beginning of this document.
 
-Database consists of tables:
-     Zwierzeta - stores properties of animals in the shelter;
-     Klienci - stores information about clients who decide to adopt;
-     Wolontariusze - stores information about volunteers of the shelter;
-     Adopcje - describes adoptions - who adopted which animal and when;
-     Tymczas - describes the stay of an animal in the home of a volunteer - who, which animal was temporarily taken into temporary care;
+Database consists of tables:</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Zwierzeta - stores properties of animals in the shelter;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Klienci - stores information about clients who decide to adopt;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Wolontariusze - stores information about volunteers of the shelter;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Adopcje - describes adoptions - who adopted which animal and when;</br>
+&nbsp;&nbsp;&nbsp;&nbsp; Tymczas - describes the stay of an animal in the home of a volunteer - who, which animal was temporarily taken into temporary care;</br>
 
 The app supports all basic operations with the database - editing, adding and deleting records from any table. Moreover, the view is seperated - the top menu on page is designed for a client and the bottom one - for the admin. Client has the ability to look through all animals within the Shelter and to fill out a form if they wish to become a volonteer in the Shelter. The admin has unobstructed view of the database and can make changes in every table within the database.
 
