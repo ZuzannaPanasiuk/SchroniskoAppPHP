@@ -4,6 +4,8 @@ https://foka.umg.edu.pl/~s47549/schronisko/schronisko/public/domowa</br>
 
 Projekt applikacji webowej wspomagającej korzystanie z bazy danych potencjalnego Schroniska dla zwierząt. Aplikacja zrobiona na potrzeby przedmiotu Projektowanie Stron Internetowych, stworzony w frameworku Laravel języka PHP oraz oparty o bazę danych utworzoną w PostgreSQL.
 
+*Uwaga* - pliki przedstawione poniżej nie zawierają prawdziwych danych do logowania, niezbędnych do odtworzenia tego projektu, w związku z czym, aplikacja nie działa. Działanie aplikacji, można zaobserwować poprzez otworzenie linku znajdującego się na górze dokumentu.
+
 Baza zawiera tabele:
      Zwierzeta - opisuje zwierzęta znajdujące się w schronisku;
      Klienci - opisuje osoby, które decydują się na adopcję;
@@ -21,6 +23,8 @@ Hasło: adminadmin
 --ANG--
 
 Web application project supporting the administrative use of a database of an animal shelter. The application was made for Design of Web Pages classes, developed using Laravel - a PHP framework, supported by a database made using PostgreSQL.
+
+*Warning* - the files of in this repo don't contain the correct login nor password, that are nessesary for this app to work, therefore it doesn't work. You can observe the app in working by opening the link at the beginning of this document.
 
 Database consists of tables:
      Zwierzeta - stores properties of animals in the shelter;
